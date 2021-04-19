@@ -1,4 +1,5 @@
 # 6069 : [기초-조건/선택실행구조] 평가 입력받아 다르게 출력하기(py)
+# https://www.codeup.kr/problem.php?id=6069
 #A : best!!! / B : good!! / C : run! / D : slowly~ / 나머지 문자들 : what?
 grade = input()
 
