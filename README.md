@@ -6,7 +6,7 @@
 
 21.05.24 : 문자열조작     
 [3029](https://www.acmicpc.net/problem/3029)/ [11720](https://www.acmicpc.net/problem/11720)     
-21.05.25 : 배열
+21.05.25 : 배열         
 [2562](https://www.acmicpc.net/problem/2562)/[2920](https://www.acmicpc.net/problem/2920)/[2953](https://www.acmicpc.net/problem/2953)/[10809](https://www.acmicpc.net/problem/10809)/[10818](https://www.acmicpc.net/problem/10818)/[2667](https://www.acmicpc.net/problem/2667)              
 21.05.26 : 연결리스트                    
 21.05.27 : 스택                  
