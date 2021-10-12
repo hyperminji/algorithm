@@ -1,4 +1,5 @@
 # https://www.acmicpc.net/problem/2884
+
 h,m = map(int,input().split( ))
 if m >= 45:
     print(h, m-45)
