@@ -1,5 +1,5 @@
-https://www.acmicpc.net/problem/2884
-  [2884번: 알람 시계](https://www.acmicpc.net/problem/2884)
+# https://www.acmicpc.net/problem/14681
+
  
 
 x= int(input())
