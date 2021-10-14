@@ -1,6 +1,5 @@
 # https://www.acmicpc.net/problem/2577
 
-
 # input -> 연산 -> list, str처리하고 
 # count를 for에 넣고 돌리자 0~9
 # 첫째 줄에는 A × B × C의 결과에 0 이 몇 번 쓰였는지 출력한다. 
